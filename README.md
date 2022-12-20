@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GianniGaspari
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gianni.gaspari.s@gmail.com
 
 <!---
