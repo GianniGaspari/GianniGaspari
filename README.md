@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-<h2> Seja, bem vindo!</h2>
+<h2> Seja bem vindo!</h2>
   
 </div>
 
