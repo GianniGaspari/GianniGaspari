@@ -17,17 +17,24 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://github.com/GianniGaspari/GianniGaspari/blob/output/github-contribution-grid-snake.svg)
 
-  
-<div> 
-<a href="https://instagram.com/gianni_salles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<div align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
-</div>
-  
 <div align="left">  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=giannigaspari&show_icons=true&locale=en" alt="giannigaspari" /></p>
 </div>
-<!--<div align="left"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&" alt="giannigaspari" /></p>
+<div align="right"> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&" alt="giannigaspari" /></p>
 </div>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+</div>
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gianni-gasparinetti-salles-2b125925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gianni Gaspari" height="30" width="40" /></a>
+<a href="https://instagram.com/gianni_salles" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
+
