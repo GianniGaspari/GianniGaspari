@@ -1,3 +1,11 @@
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Gianni+Gaspari;a+Software+Developer)](https://git.io/typing-svg)
+ 
+ </div>
+
 - 👋 Hi, I’m @GianniGaspari
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
@@ -10,13 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  
 <h2> Seja bem vindo!</h2>
-  
 </div>
 
 ![snake gif](https://github.com/GianniGaspari/GianniGaspari/blob/output/github-contribution-grid-snake.svg)
-
 
 <div align="left">  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=giannigaspari&show_icons=true&locale=en" alt="giannigaspari" /></p>
@@ -28,9 +33,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 </div>
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
@@ -39,3 +41,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://instagram.com/gianni_salles" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+
