@@ -1,10 +1,8 @@
 <div align="center" >
  
-<!--![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=300&height=70&lines=Be+Cool;keep+=+coding)](https://git.io/typing-svg)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=500&height=70&lines=Be+Cool;keep+=+coding)](https://git.io/typing-svg)
- 
- </div>
+</div>
 
 - 👋 Hi, I’m @GianniGaspari
 - 👀 I’m interested in Python
@@ -21,27 +19,54 @@ You can click the Preview link to take a look at your changes.
 <h2>Welcome!</h2>
 </div>
 
+<div align="center"
+     
 ![snake gif](https://github.com/GianniGaspari/GianniGaspari/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+<details open="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="giannigaspari" />
+  <img align="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="giannigaspari" />
+ </div>
+ 
+ 
+ </details>
+<!--
 <div align="left">  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=giannigaspari&show_icons=true&locale=en" alt="giannigaspari" /></p>
 </div>
 <div align="right"> 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&" alt="giannigaspari" /></p>
 </div>
+
 <div align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 </div>
-
-<h3 align="left">Connect with me:</h3>
+-->
+<div align="center">
+<h2>Skills</h2>
 <p align="center">
-
-<a href="https://www.linkedin.com/in/gianni-gasparinetti-salles-2b125925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gianni Gaspari" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,github,html,css" />
+  </a>
 </p>
+</div> 
+
+<div>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://instagram.com/gianni_salles" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gianni-gasparinetti-salles-2b125925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gianni Gaspari" height="30" width="40" /></a>
+ <a href="https://instagram.com/gianni_salles" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 
+<!--- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+ 
