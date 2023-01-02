@@ -69,12 +69,14 @@ You can click the Preview link to take a look at your changes.
 <!--- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
+<details close="true">
+ <summary><b>:gear: &nbsp;Profile visits</b></summary>
+ <p align="center"><b>Profile Visits:</b><br>
+ <img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
 
-<p align="center"><b>Visitas no Perfil:</b><br>
-<img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
+  <div align="center"
 
-<div align="center"
-     
-![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
-     
-</div>
+  ![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
+
+  </div>
+</details>
