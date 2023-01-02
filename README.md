@@ -51,9 +51,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=python,github,html,css" />
   </a>
 </p>
-</div> 
 
-<div>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/gianni-gaspari-2b125925b/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gianni Gaspari" target="_blank"/></a>
@@ -69,6 +67,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
- 
 
 
+
+<p align="center"><b>Visitas no Perfil:</b><br>
+<img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
+
+<div align="center"
+     
+![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
+     
+</div>
