@@ -19,8 +19,8 @@
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="giannigaspari" />
-  <img align="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="giannigaspari" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="GianniGaspari" />
+  <img align="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GianniGaspari" />
  </div>
  
  
@@ -54,7 +54,7 @@
 [![GianniGaspari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GianniGaspari&theme=github-compact)](https://github.com/GianniGaspari/github-readme-activity-graph)
 
 <details open="true">
- <summary><b>:gear: &nbsp;Profile visits</b></summary>
+ <summary><b>:gear: &nbsp;Visitors</b></summary>
  <p align="center"><b>Profile Visits:</b><br>
  <img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
 
@@ -72,15 +72,14 @@
 </div>
 
 
-<!--
+
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianniGaspari" alt="GianniGaspari" /></a>
+<a href="https://github.com/GianniGaspari/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianniGaspari&theme=onedark" alt="GianniGaspari" /></a>
 </p>
--->
 
 
 
