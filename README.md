@@ -56,7 +56,7 @@
 <details open="true">
  <summary><b>:gear: &nbsp;Visitors</b></summary>
  <p align="center"><b>Profile Visits:</b><br>
- <img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
+ <img align="center" src="https://profile-counter.glitch.me/GianniGaspari/count.svg"></p>
 
   <div align="center"
 
