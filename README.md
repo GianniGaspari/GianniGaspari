@@ -25,18 +25,7 @@
  
  
  </details>
-<!--
-<div align="left">  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GianniGaspari&show_icons=true&locale=en" alt="GianniGaspari" /></p>
-</div>
-<div align="right"> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GianniGaspari&" alt="GianniGaspari" /></p>
-</div>
 
-<div align="left">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianniGaspari&show_icons=true&locale=en&layout=compact" alt="GianniGaspari" /></p>
-</div>
--->
 <div align="center">
 <h2>Skills</h2>
 <p align="center">
@@ -60,7 +49,11 @@
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=ffffff"/>
 
-<details close="true">
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![GianniGaspari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GianniGaspari&theme=github-compact)](https://github.com/GianniGaspari/github-readme-activity-graph)
+
+<details open="true">
  <summary><b>:gear: &nbsp;Profile visits</b></summary>
  <p align="center"><b>Profile Visits:</b><br>
  <img align="center" src="https://profile-counter.glitch.me/GianniGaspari7/count.svg"></p>
@@ -71,12 +64,6 @@
 
   </div>
 </details>
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![GianniGaspari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GianniGaspari&theme=github-compact)](https://github.com/GianniGaspari/github-readme-activity-graph)
-
 
 <div align="center" >
  
