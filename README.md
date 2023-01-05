@@ -53,7 +53,7 @@
 ### 📈 GitHub Activity Graph:
 [![GianniGaspari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GianniGaspari&theme=github-compact)](https://github.com/GianniGaspari/github-readme-activity-graph)
 
-<details open="true">
+<details close="true">
  <summary><b>:gear: &nbsp;Visitors</b></summary>
  <p align="center"><b>Profile Visits:</b><br>
  <img align="center" src="https://profile-counter.glitch.me/GianniGaspari/count.svg"></p>
