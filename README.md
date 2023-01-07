@@ -30,7 +30,7 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,html,css" />
+    <img src="https://skillicons.dev/icons?i=ableton" /> <!-- python,github,html,css,powershell -->
   </a>
 </p>
 
