@@ -18,9 +18,9 @@
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="GianniGaspari" />
-  <img align="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GianniGaspari" />
+  <img align="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GianniGaspari" />
  </div>
  
  
