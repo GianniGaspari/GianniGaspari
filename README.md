@@ -7,7 +7,8 @@
 
 - 👋 Hi, I’m @GianniGaspari
 - 👀 Learning Web Development
-- 📫 <a href="https://gianni.vercel.app/" target="_blank">How to reach me</a>
+<br><br>
+<a href="https://gianni.vercel.app/" target="_blank"><img src="https://thumbs2.imgbox.com/f9/cd/gGLrvkcZ_t.png" alt="image host"/></a>
 
 <div align="center">
 <h2></h2>
