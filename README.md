@@ -6,9 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Gianni+Gaspari;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @GianniGaspari
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: gianni.gaspari.s@gmail.com
+- 👀 Learning Web Development
+- 📫 <a href="https://gianni.vercel.app/" target="_blank">How to reach me</a>
 
 <div align="center">
 <h2></h2>
@@ -30,7 +29,7 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=ableton,html,css,python,js,git,github" />
   </a>
 </p>
 
