@@ -30,7 +30,7 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton" /> <!-- python,github,html,css,powershell -->
+    <img src="https://skillicons.dev/icons?i=ableton,html,css,python" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <div align="center"
      
-<!--![snake gif](https://github.com/GianniGaspari/GianniGaspari/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/GianniGaspari/GianniGaspari/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -80,7 +80,3 @@
 <p align="center"> 
 <a href="https://github.com/GianniGaspari/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianniGaspari&theme=onedark" alt="GianniGaspari" /></a>
 </p>
-
-
-
-
