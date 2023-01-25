@@ -5,8 +5,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Gianni+Gaspari;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @GianniGaspari
-- 👀 Learning Web Development
+My name is Gianni Gasparinetti Salles<br> And I am changing careers. From a music producer to a web developer.<br> I am a web development student at EBAC school, starting to master HTML, CSS, and JavaScript.<br> I intend to become a Full Stack Developer.<br> And I am eager to be a part of your technical team."
 <br><br>
 <a href="https://gianni.vercel.app/" target="_blank"><img src="https://thumbs2.imgbox.com/f9/cd/gGLrvkcZ_t.png" alt="image host"/></a>
 
