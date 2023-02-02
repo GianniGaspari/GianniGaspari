@@ -29,7 +29,7 @@ My name is Gianni Gasparinetti Salles<br> And I am changing careers. From a musi
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,html,css,python,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=ableton,html,css,python,js,bootstrap,git,github" />
   </a>
 </p>
 
