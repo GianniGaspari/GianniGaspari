@@ -13,17 +13,14 @@ My name is Gianni Gasparinetti Salles<br> And I am changing careers. From a musi
 <h2></h2>
 </div>
 
-<details open="true">
+<!-- <details open="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
- 
   <div align="center">
-  <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="GianniGaspari" />
-  <img align="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GianniGaspari" />
- </div>
- 
- 
- </details>
+      <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GianniGaspari&show_icons=true&theme=highcontrast" />
+      <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=giannigaspari&theme=highcontrast" alt="GianniGaspari" />
+      <img align="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=giannigaspari&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="GianniGaspari" />
+  </div>
+ </details> -->
 
 <div align="center">
 <h2>Skills</h2>
@@ -72,10 +69,10 @@ My name is Gianni Gasparinetti Salles<br> And I am changing careers. From a musi
 
 
 
-<div align="center">
+<!-- <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
 <a href="https://github.com/GianniGaspari/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GianniGaspari&theme=onedark" alt="GianniGaspari" /></a>
-</p>
+</p> -->
